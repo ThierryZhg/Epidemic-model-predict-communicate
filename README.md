@@ -45,15 +45,6 @@ Interventions could be applied at key time points:
 - **Simulation Model:** A dynamic model predicting epidemic spread and evaluating intervention strategies.
 - **Presentation:** A slide deck summarizing methodology, simulation outcomes, and strategic recommendations for public health decision-makers, the media, and the scientific community.
 
-## Collaborators & Resources
-- **Key Instructors:**  
-  - Véronique Letort (centralesupelec.fr)  
-  - Gilles Faÿ (centralesupelec.fr)
-- **Additional Contributors:**  
-  - Lulla Opatowski, Houssem Trikki, Romana Haneef, among others.
-- **Files Included:**  
-  - `1 NCCS - 01 10 Réunion bureau v0.1_ADU.pptx` – Presentation slides from the initial project briefing.
-
 ---
 
 This document summarizes the project’s context, simulation challenge, intervention strategies, and key deliverables, highlighting the interdisciplinary approach used to tackle epidemic crises.
