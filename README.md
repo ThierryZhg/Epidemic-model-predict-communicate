@@ -47,4 +47,4 @@ Interventions could be applied at key time points:
 
 ---
 
-This document summarizes the project’s context, simulation challenge, intervention strategies, and key deliverables, highlighting the interdisciplinary approach used to tackle epidemic crises.
+This git summarizes the project’s context, simulation challenge, intervention strategies, and key deliverables, highlighting the interdisciplinary approach used to tackle epidemic crises.
